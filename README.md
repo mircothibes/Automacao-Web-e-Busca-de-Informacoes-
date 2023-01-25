@@ -1,6 +1,6 @@
 # Automacao Web e Busca de Informacoes 
  
- - Projeto construído para coleta e amostra de informações. 
+Projeto construído para coleta e amostra de informações. 
 
 Necessita das cotações do dólar, euro, ouro. 
 
