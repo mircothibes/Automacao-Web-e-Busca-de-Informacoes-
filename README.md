@@ -10,3 +10,7 @@ Usada as bibliotecas:
  - pandas
  - seleniun -> biblioteca de automação e controle. 
 
+
+Intensivo de Python realizado pela empresa Hashtag Treinamento.
+
+Link - https://www.hashtagtreinamentos.com/
